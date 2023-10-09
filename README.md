@@ -6,11 +6,10 @@
 This lab demonstrates the necessary changes I make to configure osTicket so it can be used as a proper ticketing system.<br />
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Setting Up osTicket and Tour](https://www.youtube.com/watch?v=WjkpAnz9OWU))
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Creating Roles, Departments, Users and Teams](https://youtu.be/OcwVTdWO6nM)
+- ### [YouTube: Creating Roles, Departments, Users and Teams](https://youtu.be/nSgvBVaBnKQ?si=HJ9iFcRlIv8tLyWR)
 
 
 
